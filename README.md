@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eminkocabuga/)](https://www.linkedin.com/in/eminkocabuga/)
+[![Linkedin Badge](https://img.shields.io/badge/-eminkocabuga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eminkocabuga/)](https://www.linkedin.com/in/eminkocabuga/)
 [![Gmail Badge](https://img.shields.io/badge/-eminkocabuga@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eminkocabuga@gmail.com)](mailto:eminkocabuga@gmail.com)
 
 ## ⚡ Technologies
